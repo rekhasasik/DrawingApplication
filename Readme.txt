@@ -9,12 +9,13 @@ Import Project:
 Import the project as Maven project from any IDE.
 Maven -> Update Dependencies.
 Run as Maven Build (Goals: install)
+Go to the com.sasi.drawing.Application class, and Run it as Java Application from IDE
 
-To Build the Application:
+To Build the Application from command Prompt:
 1. mvn clean compile install
 
 To Run the application from command prompt:
-2. mvn exec:java -D"exec.mainClass"="com.sasi.drawing.Application"
+2. mvn exec:java -D"exec.mainClass"="com.sasi.drawing.Application" 
 
 Assumptions:
 1. The solution is created and tested to run in a single threaded environment.
