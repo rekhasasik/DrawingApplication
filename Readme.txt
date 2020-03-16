@@ -3,7 +3,10 @@ JDK 11 has been used to develop the solution
 Built the solution as a maven solution.
 Additional Feature:
 Apart from Create Canvas, Line and Rectangle, one more command H (displays History of commands) is also implemented.
+Type H to list history commands.
+commands are implemented as case insensitive
 Just Pressing Enter shows the supported commands.
+input.txt contain sample input.
 
 Import Project:
 Import the project as Maven project from any IDE.
