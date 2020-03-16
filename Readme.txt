@@ -4,6 +4,7 @@ Built the solution as a maven solution.
 Additional Feature:
 Apart from Create Canvas, Line and Rectangle, one more command H (displays History of commands) is also implemented.
 Type H to list history commands.
+Type Enter to see the set of available commands.
 commands are implemented as case insensitive
 Just Pressing Enter shows the supported commands.
 input.txt contain sample input.
